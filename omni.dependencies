@@ -1,0 +1,8 @@
+[
+  {
+    "remote": "github",
+    "repository": "TheMalachite/twrp_xiaomi_mt6873-common",
+    "target_path": "device/xiaomi/mt6873-common",
+    "revision": "android-10.0"
+  }
+]
